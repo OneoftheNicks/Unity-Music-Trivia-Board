@@ -48,3 +48,5 @@ Starting at 0 from the top most question going down to the bottom and over a col
 
 Finally when you're finished go to File > Build settings and click Build. It'll prompt a location for the final unity build folder the contains the exe. 
 ![alt7](inst_7.PNG)
+
+**Reminder: press tab during the game to toggle the dev menu**
