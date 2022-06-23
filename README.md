@@ -42,6 +42,7 @@ Once those are imported below are the objects that hold references to those asse
 ![alt6](inst_6.PNG)
 
 Starting at 0 from the top most question going down to the bottom and over a column, remember; the element # corresponds to this.
+
 ![order](orderBoard.png)
 
 Finally when you're finished go to File > Build settings and click Build. It'll prompt a location for the final unity build folder the contains the exe. 
