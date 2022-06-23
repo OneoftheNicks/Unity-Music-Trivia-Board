@@ -1,6 +1,7 @@
 # Unity-Music-Trivia-Board
 
 This repo contains the editor and project config for a Unity template object, you will need to download and install Unity and open the project to use it. I used Unity 2020.3.11 but most modern LTS versions should be fine. 
+
 Download Unity [here](https://unity.com/download)
 
 ## Instructions:
